@@ -1,0 +1,44 @@
+[
+  {
+    "nombre": "jugo",
+    "precio": 50,
+    "categoria": "bebida",
+    "id": 1
+  },
+  {
+    "nombre": "cafe",
+    "precio": 80,
+    "categoria": "bebida",
+    "id": 2
+  },
+  {
+    "nombre": "galletitas",
+    "precio": 120,
+    "categoria": "comestible",
+    "id": 3
+  },
+  {
+    "nombre": "coca",
+    "precio": "350",
+    "categoria": "bebida",
+    "id": 4
+  },
+  {
+    "nombre": "arroz",
+    "precio": "564",
+    "categoria": "comida",
+    "id": 5
+  },
+  {
+    "nombre": "arroz",
+    "precio": "564",
+    "categoria": "comida",
+    "id": 6
+  },
+  {
+    "nombre": "agua",
+    "precio": "130",
+    "descripcion": "bebida",
+    "id": 7
+  }
+]

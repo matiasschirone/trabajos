@@ -1,0 +1,32 @@
+[
+  {
+    "nombe": "cafe",
+    "precio": 20,
+    "categoria": "bebida",
+    "id": 1
+  },
+  {
+    "nombe": "cafe",
+    "precio": 20,
+    "categoria": "bebida",
+    "id": 2
+  },
+  {
+    "nombe": "cafe",
+    "precio": 20,
+    "categoria": "bebida",
+    "id": 3
+  },
+  {
+    "nombe": "cafe",
+    "precio": 20,
+    "categoria": "bebida",
+    "id": 4
+  },
+  {
+    "nombe": "leche",
+    "precio": 20,
+    "categoria": "bebida",
+    "id": 5
+  }
+]

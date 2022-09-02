@@ -1,0 +1,56 @@
+[
+  {
+    "nombre": "jugo",
+    "precio": 50,
+    "categoria": "bebida",
+    "id": 1
+  },
+  {
+    "nombre": "cafe",
+    "precio": 80,
+    "categoria": "bebida",
+    "id": 2
+  },
+  {
+    "nombre": "galletitas",
+    "precio": 120,
+    "categoria": "comestible",
+    "id": 3
+  },
+  {
+    "nombre": "leche",
+    "precio": "12",
+    "categoria": "bebida",
+    "id": 4
+  },
+  {
+    "nombre": "leche",
+    "precio": "12",
+    "categoria": "bebida",
+    "id": 5
+  },
+  {
+    "nombre": "leche",
+    "precio": "12",
+    "categoria": "bebida",
+    "id": 6
+  },
+  {
+    "nombre": "chocolate",
+    "precio": "500",
+    "categoria": "comida",
+    "id": 7
+  },
+  {
+    "nombre": "fideos",
+    "precio": "620",
+    "categoria": "comida",
+    "id": 8
+  },
+  {
+    "nombre": "mortadela",
+    "precio": "300",
+    "categoria": "comida",
+    "id": 9
+  }
+]
